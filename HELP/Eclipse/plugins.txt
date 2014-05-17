@@ -1,0 +1,7 @@
+Eclipse must have the following plugins:
+
+Maven 2 Eclipse - http://download.eclipse.org/technology/m2e/releases
+
+AJDT - http://download.eclipse.org/tools/ajdt/37/update
+
+AJDT Configuration - http://dist.springsource.org/release/AJDT/configurator/

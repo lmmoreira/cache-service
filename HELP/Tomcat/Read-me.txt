@@ -1,0 +1,4 @@
+- Tomcat doesn't support load time weaving by default.
+- Spring provides an agent for that.
+- spring-instrument-tomcat-3.1.0.RELEASE.jar must be placed at lib folder of Tomcat web container.
+- The application default context must be changed as shown in the context-tomcat.xml file.

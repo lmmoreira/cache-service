@@ -1,0 +1,1 @@
+- Load time weaving is supported only by JBoss 5.1

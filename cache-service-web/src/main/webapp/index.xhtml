@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+        xmlns:f="http://java.sun.com/jsf/core">
+        <h:body>
+		<f:view contentType="text/html">
+			<center>
+				<h:panelGroup layout="block">
+					<h:form>
+					
+						<h:dataTable value="#{cacheServiceController.cidades}" var="cidade">
+						  	<h:column>
+								<f:facet name="header" >
+									<h:outputText value="Name"/>
+							  	</f:facet>
+							  	<h:outputText value="#{cidade.name}"/>
+						  	</h:column>
+				  		</h:dataTable>
+					
+						<h:dataTable value="#{cacheServiceController.usuarios}" var="usuario">
+						  	<h:column>
+								<f:facet name="header" >
+									<h:outputText value="Name"/>
+							  	</f:facet>
+							  	<h:outputText value="#{usuario.name}"/>
+						  	</h:column>
+				  		</h:dataTable>
+					
+					</h:form>
+				</h:panelGroup>
+			</center>
+		</f:view>
+	</h:body>
+</html>

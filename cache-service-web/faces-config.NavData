@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="resources/models/dialog.xhtml" x="1400" y="300" zoom="true"/>
+        <Node id="autenticacao.xhtml" x="150" y="300" zoom="true"/>
+        <Node id="template.xhtml" x="650" y="150" zoom="true"/>
+        <Node id="resources/models/datatable.xhtml" x="1650" y="150" zoom="true"/>
+        <Node id="idiomas.xhtml" x="150" y="600" zoom="true"/>
+        <Node id="resources/models/emails.xhtml" x="900" y="600" zoom="true"/>
+        <Node id="areas.xhtml" x="400" y="450" zoom="true"/>
+        <Node id="resources/models/confirmation.xhtml" x="1150" y="450" zoom="true"/>
+        <Node id="profissionais.xhtml" x="650" y="450" zoom="true"/>
+        <Node id="cargos.xhtml" x="400" y="750" zoom="true"/>
+        <Node id="principal.xhtml" x="150" y="450" zoom="true"/>
+        <Node id="perfis.xhtml" x="400" y="150" zoom="true"/>
+        <Node id="cursos.xhtml" x="900" y="150" zoom="true"/>
+        <Node id="cidades.xhtml" x="1150" y="150" zoom="true"/>
+        <Node id="usuarios.xhtml" x="900" y="450" zoom="true"/>
+        <Node id="resources/models/telefones.xhtml" x="150" y="900" zoom="true"/>
+        <Node id="departamentos.xhtml" x="650" y="300" zoom="true"/>
+        <Node id="linguas.xhtml" x="400" y="600" zoom="true"/>
+        <Node id="index.xhtml" x="61" y="43" zoom="true"/>
+        <Node id="complementotipos.xhtml" x="150" y="750" zoom="true"/>
+        <Node id="resources/models/dialogCRUD.xhtml" x="400" y="900" zoom="true"/>
+        <Node id="competencias.xhtml" x="400" y="300" zoom="true"/>
+        <Node id="instituicoes.xhtml" x="1150" y="300" zoom="true"/>
+        <Node id="centroscusto.xhtml" x="900" y="300" zoom="true"/>
+        <Node id="requisicoes.xhtml" x="150" y="150" zoom="true"/>
+        <Node id="resources/models/datatableCRUD.xhtml" x="650" y="750" zoom="true"/>
+        <Node id="processo.xhtml" x="650" y="600" zoom="true"/>
+        <Node id="lembrar.xhtml" x="1400" y="150" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
